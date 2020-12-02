@@ -8,26 +8,19 @@ Buku ini cocok bagi pemula yang ingin belajar pemrograman ASP.NET MVC menggunaka
 
 Persyaratan yang dibutuhkan untuk mempelajari buku ini setidaknya pernah atau sudah paham bahasa pemrograman C\# 
 
-### Feedback
+### Tujuan
+
+1. Memahami dasar pembuatan aplikasi web menggunakan teknologi asp.net mvc
+2. Memahami dasar konsep database mongodb
+3. Bisa membuat aplikasi sederhana menggunakan asp.net mvc dengan database mongodb
+
+### Timbal Balik
 
 Untuk pertanyaan, kesalahan ketik atau permintaan bisa menghubungi penulis melalui email di luthfi\_azzammi@hotmail.com
 
-### License
+### Lisensi
 
 Working on this
-
-```
-$ give me super-powers
-```
-
-Once you're strong enough, save the world:
-
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
 
 
 
