@@ -1,25 +1,28 @@
 # ASP.NET MVC
 
-## Getting Super Powers
+## Definisi
 
-Becoming a super hero is a fairly straight forward process:
+**ASP.NET MVC**
 
-```
-$ give me super-powers
-```
+Adalah sebuah kumpulan teknologi dalam framework .NET untuk membantu pengembangan aplikasi web OOP secara dinamis, sebuah teknologi yang diciptakan oleh microsoft untuk pemrograman website yang lebih efisien.
+
+Masuk dalam jajaran Server Side Programming bersamaan dengan PHP dan juga Java Server Page \(JSP\) yang mana ASP.NET  MVC ini peruntukannya di negeri kita lebih untuk sektor enterprise.
+
+Dan untuk membuat kita lebih semangat dalam mempelajari materi ini akan kami jabarkan beberapa website yang menggunakan teknologi ASP.NET MVC :
+
+{% embed url="https://stackoverflow.com/" %}
+
+{% embed url="https://www.microsoft.com/id-id/" %}
+
+{% embed url="https://id.godaddy.com/" %}
+
+Dari contoh yang kami sebutkan di atas mewakili beberapa website yang tidak bisa kami sebutkan semua. Disana ada StackOverflow yang sudah menjadi rujukan ~~para~~ semua programmer saat mengalami masalah pada codingannya.
 
 {% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+ Source : [https://dzone.com/articles/top-10-websites-written-using-aspnet-mvc](https://dzone.com/articles/top-10-websites-written-using-aspnet-mvc)
 {% endhint %}
 
-Once you're strong enough, save the world:
 
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
 
 
 

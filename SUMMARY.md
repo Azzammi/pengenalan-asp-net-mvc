@@ -7,3 +7,7 @@
 * [ASP.NET MVC](pengenalan/pengertian-asp-net-mvc.md)
 * [Sejarah Singkat](pengenalan/sejarah-singkat-asp-net-mvc.md)
 
+## 1.2 apa nih
+
+* [Untitled](1.2-apa-nih/untitled.md)
+
