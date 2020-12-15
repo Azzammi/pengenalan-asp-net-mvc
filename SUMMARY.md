@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Aplikasi ASP.NET MVC](README.md)
+* [Aplikasi Penjualan Sederhana ASP.NET MVC](README.md)
 
 ## 1.1 Pengenalan <a id="pengenalan"></a>
 
@@ -16,4 +16,13 @@
 ## 1.3 Strengthen Your Tough
 
 * [Kemampuan Yang Diperlukan](1.3-strengthen-your-tough/kemampuan-yang-diperlukan.md)
+
+## 2.1 STEP 1
+
+* [Buat Projek Baru](2.1-step-1/buat-projek-baru.md)
+* [Nuget Package Manager](2.1-step-1/npm.md)
+
+## 2.2 STEP 2 <a id="step-2"></a>
+
+* [Setting Koneksi Database](step-2/setting-koneksi-database.md)
 

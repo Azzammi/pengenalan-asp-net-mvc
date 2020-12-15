@@ -7,5 +7,5 @@ Niat belajar yang benar dan kuat juga bersabar dalam belajar adalah hal yang uta
 3. Nuget Package Manager
 4. Git
 
-Jika anda yakin sudah siap mari kita mulai membuat aplikasi sederhananya
+Jika anda yakin sudah siap mari kita mulai membuat aplikasi 
 

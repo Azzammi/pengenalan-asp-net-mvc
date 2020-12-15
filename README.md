@@ -1,4 +1,4 @@
-# Aplikasi ASP.NET MVC
+# Aplikasi Penjualan Sederhana ASP.NET MVC
 
 {% hint style="info" %}
  Note : This book mainly written in Bahasa primarily because of the tutorial about asp.net mvc mainly written in english and not so many people in my country use this technology
